@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - walls
+  - enemys
+  - bullet
+  - circle
+  - garlic
+  - pickup
+  - heart
+  - Audio Player
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Background
+  - projectails
+  - wall
+  - rock
+  - enemys
+  - small enemys
+  - bullet
+  - pick up
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3618216959
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 4085920677
+    locked: 0
+  - name: enemy
+    uniqueID: 2233973669
+    locked: 0
+  - name: gun
+    uniqueID: 3898119707
+    locked: 0
